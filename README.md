@@ -25,16 +25,16 @@ A complete full-stack e-commerce platform for a clothing store, built solo from 
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing](zulffaya_landing.png)
+![Landing](screenshots/zulffaya_landing.png)
 
 ### Product Catalogue
-![Shop](zulffaya_products.png)
+![Shop](screenshots/zulffaya_products.png)
 
 ### Payment Gateway (Midtrans)
-![Payment](zulffaya_payment.png)
+![Payment](screenshots/zulffaya_payment.png)
 
 ### Admin Dashboard
-![Admin](zulffaya_admin.png)
+![Admin](screenshots/zulffaya_admin.png)
 
 ## 🚀 How to Run
 
