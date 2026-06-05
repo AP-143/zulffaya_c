@@ -25,16 +25,16 @@ A complete full-stack e-commerce platform for a clothing store, built solo from 
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing](screenshots/landing.png)
+![Landing](zulffaya_landing.png)
 
 ### Product Catalogue
-![Shop](screenshots/shop.png)
+![Shop](zulffaya_products.png)
 
 ### Payment Gateway (Midtrans)
-![Payment](screenshots/payment.png)
+![Payment](zulffaya_payment.png)
 
 ### Admin Dashboard
-![Admin](screenshots/admin.png)
+![Admin](zulffaya_admin.png)
 
 ## 🚀 How to Run
 
@@ -52,6 +52,6 @@ Configure your `.env` with database credentials and Midtrans API keys.
 
 ## 👨‍💻 Developer
 
-**Akbar Jaya Pratama Putra**  
-S1 Informatics — AMIKOM University of Yogyakarta (2024)  
+**Akbar Jaya Pratama Putra**
+S1 Informatics — AMIKOM University of Yogyakarta (2024)
 [LinkedIn](https://www.linkedin.com/in/akbaarputra) · [GitHub](https://github.com/AP-143)
